@@ -8,13 +8,15 @@ Skills that make an agent write down the purpose, the end state, and the bounds 
 
 ## Why intent
 
-Commander's intent does not tell you how. It names the desired outcome.
+You want the end state. Give an agent too many guardrails and it will force itself into engineering it that way.
 
-I learned that in the Airborne Infantry. Too many specifics and people stop thinking. They follow the method even when the method is wrong.
+In the United States Military, the Commander’s Intent does not tell you how. It names the desired outcome.
 
-Agents do the same. Load them with guardrails and they will engineer themselves into that shape. Humans are not perfect. We do not engineer perfectly. A master engineer gets the tools and the end state — not a script for how they must use the tools.
+Intent is the purpose, the conditions that must remain true, and the end state. It is not a method. Too many specifics and people stop thinking. They follow the method even when the method is wrong.
 
-That is this skill. Write the intent. Leave the how.
+Humans are not perfect. We do not engineer perfectly. A master engineer gets the tools and the end state — not a script for how they must use the tools.
+
+You write the intent. The how stays theirs.
 
 ## Immutable
 
