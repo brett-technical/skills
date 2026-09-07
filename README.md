@@ -16,7 +16,7 @@ Intent is the purpose, the conditions that must remain true, and the end state. 
 
 Humans are not perfect. We do not engineer perfectly. A master engineer gets the tools and the end state — not a script for how they must use the tools.
 
-You write the intent. The how stays theirs.
+You write the intent. The how belongs to the workforce.
 
 ## Immutable
 
