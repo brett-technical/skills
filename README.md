@@ -8,11 +8,13 @@ Skills that make an agent write down the purpose, the end state, and the bounds 
 
 ## Why intent
 
-This is the Army's **commander's intent**. When the plan breaks and nobody is there to ask, the unit still knows three things: why we are here, what done looks like, and what we will not chase.
+Commander's intent does not tell you how. It names the desired outcome.
 
-Agents fail the same way. They rewrite the goal to match the work they already did. A mission statement on the wall does not stop that. A short file can.
+I learned that in the Airborne Infantry. Too many specifics and people stop thinking. They follow the method even when the method is wrong.
 
-That is why this skill exists. Write the intent first. Then the file is law.
+Agents do the same. Load them with guardrails and they will engineer themselves into that shape. Humans are not perfect. We do not engineer perfectly. A master engineer gets the tools and the end state — not a script for how they must use the tools.
+
+That is this skill. Write the intent. Leave the how.
 
 ## Immutable
 
