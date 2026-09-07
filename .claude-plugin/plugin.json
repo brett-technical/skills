@@ -1,0 +1,12 @@
+{
+  "name": "skills",
+  "version": "0.1.0",
+  "description": "Agent skills that force a sharp intent before work starts. Use when starting work with no stated purpose, end state, or bounds.",
+  "author": {
+    "name": "Brett Hurd",
+    "url": "https://github.com/brett-technical"
+  },
+  "repository": "https://github.com/brett-technical/skills",
+  "license": "MIT",
+  "keywords": ["skills", "intent", "agentskills"]
+}

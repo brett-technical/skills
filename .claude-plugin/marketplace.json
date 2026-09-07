@@ -1,0 +1,15 @@
+{
+  "name": "skills",
+  "owner": {
+    "name": "Brett Hurd",
+    "url": "https://github.com/brett-technical"
+  },
+  "plugins": [
+    {
+      "name": "skills",
+      "source": "./",
+      "description": "Agent skills that force a sharp intent before work starts.",
+      "version": "0.1.0"
+    }
+  ]
+}

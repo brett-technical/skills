@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320">
+  <rect width="1200" height="320" fill="#0d1017"/>
+  <rect x="0" y="0" width="48" height="320" fill="#e0b44a"/>
+  <rect x="48" y="40" width="220" height="240" fill="#1b3a4a"/>
+  <rect x="280" y="40" width="140" height="110" fill="#e0b44a"/>
+  <rect x="280" y="162" width="140" height="118" fill="#3d3416"/>
+  <rect x="432" y="40" width="80" height="240" fill="#c45c26"/>
+  <text x="548" y="150" fill="#e6e9ef" font-family="Georgia, serif" font-size="64">Intent first</text>
+  <text x="548" y="200" fill="#9aa3b2" font-family="system-ui, sans-serif" font-size="22">Purpose. End state. Bounds.</text>
+</svg>
