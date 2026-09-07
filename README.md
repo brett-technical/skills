@@ -48,6 +48,8 @@ Copy the `skills/` directory into your agent’s skills path (for example `~/.co
 
 [skills/intent/examples/INTENT.md](skills/intent/examples/INTENT.md) — what the skill writes.
 
+The file is immutable after that write. Agents read it. Only the operator changes it.
+
 ## License
 
 [MIT](LICENSE)

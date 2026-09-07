@@ -5,6 +5,10 @@ set: 2026-09-07
 
 # Intent — this repository
 
+> **Immutable.** Agents read this file. They do not edit it.
+> Only the operator changes it, by re-running the intent skill and confirming a replace.
+> If work has drifted: report the gap and stop. Do not rewrite this file to match the work.
+
 Purpose: publish a small set of original agent skills that force a sharp
 intent before work starts, without leaking anything that is not meant to
 be public.

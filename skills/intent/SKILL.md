@@ -27,13 +27,16 @@ subject.
 
 ## Immutability — hard rule
 
-**Never edit an existing `INTENT.md`.** Not to refine it, not to adapt it to what turned out to be
-achievable, not to reconcile it with reality. An intent that bends when work gets hard is worthless —
-resisting exactly that is what it is for.
+**Agents never edit an existing `INTENT.md`.** Not to refine it, not to adapt it to what turned out
+to be achievable, not to reconcile it with reality. An intent that bends when work gets hard is
+worthless — resisting exactly that is what it is for.
 
-Only the user changes an intent, by explicitly re-running this skill. If a subject's work has
-drifted away from its intent, **report the gap and stop**. Surfacing the gap is useful; closing it
-by rewriting the intent is the failure.
+Only the **operator** changes it, by explicitly re-running this skill and confirming a replace.
+If work has drifted from the file, **report the gap and stop**. Surfacing the gap is useful.
+Rewriting the file to close the gap is the failure.
+
+This rule must live **in the file**, not only in this skill. Agents that never loaded the skill
+still read `INTENT.md`. If the file is silent, they will treat it as ordinary notes.
 
 ---
 
@@ -123,7 +126,16 @@ Write `INTENT.md` at the head of the subject. Frontmatter carries the subject an
 set. No expiry, no review date — an intent does not go stale on a clock, and a nag would only invite
 the drift this skill exists to prevent.
 
-Show the user the final file and confirm before writing.
+Every `INTENT.md` must open with this block, verbatim, after the title:
+
+```
+> **Immutable.** Agents read this file. They do not edit it.
+> Only the operator changes it, by re-running the intent skill and confirming a replace.
+> If work has drifted: report the gap and stop. Do not rewrite this file to match the work.
+```
+
+Show the operator the final file and confirm before writing. After that write, refuse further
+edits to that file. Point at the block. Do not "just fix a typo."
 
 ---
 
