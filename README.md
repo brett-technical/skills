@@ -10,7 +10,7 @@ Skills that make an agent write down the purpose, the end state, and the bounds 
 
 You want the end state. Give an agent too many guardrails and it will force itself into engineering it that way.
 
-In the United States Military, the Commander’s Intent does not tell you how. It names the desired outcome.
+In joint doctrine of the U.S. Armed Forces, commander’s intent does not tell you how. It names the desired outcome.
 
 Intent is the purpose, the conditions that must remain true, and the end state. It is not a method. Too many specifics and people stop thinking. They follow the method even when the method is wrong.
 
