@@ -9,7 +9,7 @@
       "name": "skills",
       "source": "./",
       "description": "Agent skills that force a sharp intent before work starts.",
-      "version": "0.1.0"
+      "version": "0.2.0"
     }
   ]
 }

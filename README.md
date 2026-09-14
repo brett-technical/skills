@@ -59,6 +59,12 @@ Copy the `skills/` directory into your agent’s skills path (for example `~/.co
 | Skill | Use when |
 | --- | --- |
 | [intent](skills/intent) | Starting work with no stated purpose, end state, or bounds |
+| [interview-me](skills/interview-me) | The stated goal is fuzzy and you need the real one, in small specs |
+| [idiot-index](skills/idiot-index) | A part, a service, or a quote costs more than the materials |
+| [see-and-pick](skills/see-and-pick) | The user must choose among real options and needs to see them |
+| [distill](skills/distill) | Dense material needs first-principles extraction, not a summary |
+| [decision-matrix](skills/decision-matrix) | Three or more options with no stated order |
+| [soul-max](skills/soul-max) | One source, extract short operating rules for how an agent should think |
 
 ## Sample
 
